@@ -2,7 +2,19 @@ main .container {
   padding-top: 60px;
 }
 
-.active {
-  background-color: blue;
+.nav-item {
   border-radius: 8px;
+  padding-left padding-right: 5px;
+}
+
+.active {
+  background-color: lightgreen;
+}
+
+.far {
+  margin-left: 5px;
+}
+
+footer {
+  background-color: lightgray;
 }
