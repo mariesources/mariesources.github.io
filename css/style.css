@@ -1,15 +1,18 @@
 main .container {
   padding-top: 60px;
+  padding-bottom: 60px;
 }
+
 
 .nav-item {
   border-radius: 8px;
-  padding-left padding-right: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 
 header .active {
-  background-color: lightgreen;
+  background-color: #007bff;
 }
 
 .tab-pane .main-card {
@@ -18,9 +21,12 @@ header .active {
   border-top-right-radius: 0px;
 }
 
-
 .far {
-  margin-left: 5px;
+  padding: 5px;
+}
+
+header .far {
+  margin-top: 4px;
 }
 
 .center {
